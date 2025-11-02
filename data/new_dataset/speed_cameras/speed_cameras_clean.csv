@@ -1,0 +1,199 @@
+lon,lat,status_clean,ward_num,location,fid
+-79.567451,43.713609,active,1,Kipling Ave. North of Rexdale Blvd.,1
+-79.55051,43.700973,active,1,St. Andrews Blvd. West of Islington Ave.,2
+-79.56138591,43.7285526,active,1,Islington Ave. North of Fordwich Cres.,3
+-79.597523,43.748744,active,1,Martin Grove Rd. South of Silverstone Dr.,4
+-79.553404,43.722559,active,1,Golfdown Dr. East of Turpin Ave.,5
+-79.596034,43.738952,active,1,Silverstone Dr. Near Midhurst Dr.,6
+-79.599379,43.718343,active,1,Rexdale Blvd. West of Highway 27,7
+-79.621564,43.727606,active,1,Humberwood Blvd. South of Pinecone Dr.,8
+-79.57205,43.63331,active,2,Bloor St. W. East of Forest View Rd.,9
+-79.52411,43.65382,active,2,Dundas St. W. East of Briarly Lane,10
+-79.56089,43.67494,active,2,Eglinton Ave. W. East of Martin Grove Rd.,11
+-79.5623874,43.6511409,active,2,The East Mall South of Capri Rd.,12
+-79.58734473,43.6439106,active,2,Mill Rd. Near 411 Mill Rd.,13
+-79.527931,43.685121,active,2,Royal York Rd. North of La Rose Ave.,14
+-79.561455,43.684757,active,2,The Westway West of Brampton Rd.,15
+-79.562461,43.673257,active,2,Martin Grove Rd. South of Eglinton Ave. W. ,16
+-79.52992417,43.5941544,active,3,Thirty First St. Near Ash Cres.,17
+-79.555658,43.633155,active,3,The East Mall South of Faludon Court,18
+-79.503811,43.599991,active,3,Sixth St. South of Lake Shore Blvd. W,19
+-79.51893,43.6026296,active,3,Kipling Ave. South of New Toronto St.,20
+-79.519132,43.600527,active,3,Birmingham St. West of Kipling Ave.,21
+-79.496038,43.614636,active,3,Stanley Ave. Near Elizabeth St.,22
+-79.45528,43.64253,active,4,Parkside Dr. South of Algonquin Ave.,23
+-79.477753,43.654995,active,4,Runnymede Rd. North of Colbeck St.,24
+-79.460767,43.663059,active,4,Indian Road Cres. North of Humberside Ave.,25
+-79.436868,43.639217,active,4,Jameson Ave. South of Laxton Ave.,26
+-79.490643,43.6644435,active,4,Jane St. Near Page Ave.,27
+-79.45087,43.656714,active,4,Bloor St. W. East of Dundas St. W.,28
+-79.507828,43.679233,active,5,Scarlett Rd. South of Edinbridge Dr.,29
+-79.501798,43.703317,active,5,Lawrence Ave. W. Near Martini Dr.,30
+-79.48895,43.67496,active,5,Rockcliffe Blvd. Near Rockcliffe Court,31
+-79.509436,43.708342,active,5,Church St. West of Uphill Ave.,32
+-79.47246,43.683797,active,5,Keele St. Near Nashville Ave.,33
+-79.482094,43.680773,active,5,Humber Blvd. Near Louvain St.,34
+-79.49820962,43.6825208,active,5,Jane St. North of Lambton Ave.,35
+-79.483285,43.7319336,active,6,Keele St. North of Wandle Ave.,36
+-79.493949,43.743279,active,6,Sheppard Ave. W. Near Seeley Dr.,37
+-79.451258,43.751678,active,6,Faywood Blvd. Near Norcross Rd.,38
+-79.4655513,43.7630859,active,6,Dufferin St. Near Stanstead Dr.,39
+-79.48853498,43.7252837,active,6,Wilson Ave. Near 1235 Wilson Ave.,40
+-79.556681,43.746085,active,7,Blue Haven Cres. North of Ardwick Blvd.,41
+-79.514531,43.744229,active,7,Jane St. South of Courage Ave.,42
+-79.511946,43.748034,active,7,Grandravine Dr. Opposite #310 Grandravine Dr.,43
+-79.50224695,43.7588033,active,7,Derrydown Rd. West of Sentinel Rd.,44
+-79.561496,43.751059,active,7,Duncanwoods Dr. West of Gracedale Blvd.,45
+-79.509191,43.742876,active,7,Spenvalley Dr. Near Cobb Ave.,46
+-79.41094,43.709534,active,8,Avenue Rd. Near Castlefield Ave.,47
+-79.458436,43.719967,active,8,Orfus Rd. West of Dufferin St.,48
+-79.454145,43.711925,active,8,Dufferin St. South of Claver Ave.,49
+-79.43963464,43.7171919,active,8,Lawrence Ave. W. West of Varna Dr.,50
+-79.431985,43.716203,active,8,Glenmount Ave. Near Madoc Dr.,51
+-79.41676,43.740862,active,8,Wilson Ave. East of Saunders St.,52
+-79.435612,43.678628,active,9,Oakwood Ave. Near Biggar Ave.,53
+-79.458551,43.684033,active,9,Caledonia Rd. North of Rogers Rd.,54
+-79.43392,43.65624,active,9,Dufferin St. South of Dufferin Park Ave.,55
+-79.44361449,43.6792862,active,9,Dufferin St. North of Norton Ave.,56
+-79.397674,43.635089,active,10,Eireann Quay South of Queens Quay W.,57
+-79.370745,43.64756,active,10,Lower Jarvis St. South of The Esplanade,58
+-79.403898,43.651699,active,10,Dundas St. W. Near Casimir St.,59
+-79.3944377,43.65505877,active,11,Beverley St. Near D'Arcy St.,60
+-79.406999,43.657797,active,11,Lippincott St. South of Vankoughnet St.,61
+-79.380478,43.676184,active,11,Mount Pleasant Rd. Near South Dr.,62
+-79.398755,43.680343,active,12,Avenue Rd. Near Oaklands Ave.,63
+-79.410092,43.690762,active,12,Russell Hill Rd. South Near Coulson Ave.,64
+-79.395011,43.691216,active,12,Yonge St. Near Glen Elm Ave.,65
+-79.389462,43.699885,active,12,Davisville Ave. Near Acacia Rd.,66
+-79.371914,43.657157,active,13,Pembroke St. South of Dundas St. E.,67
+-79.377108,43.669368,active,13,Isabella St. West of Sherbourne St.,68
+-79.377307,43.663845,active,13,Jarvis St. Near 433 Jarvis St. ,69
+-79.339517,43.675318,active,14,Blake St. South of Strathcona Ave.,70
+-79.333459,43.668177,active,14,Sproat Ave. Near Curzon St.,71
+-79.331139,43.697477,active,14,O'Connor Dr. West of Lankin Blvd.,72
+-79.321255,43.677872,active,14,Coxwell Ave. North of Casci Ave.,73
+-79.331165,43.693473,active,14,Cosburn Ave. Near Roosevelt Rd.,74
+-79.33196036,43.6952995,active,14,Plains Rd. Near Milton Rd.,75
+-79.349268,43.685372,active,14,Mortimer Ave. East of Carlaw Ave.,76
+-79.363808,43.745359,active,15,Denlow Blvd. Near Hamlet Gate,77
+-79.389838,43.749035,active,15,Fenn Ave. North of Gordon Rd.,78
+-79.381842,43.735287,active,15,Bayview Ave. South of Post Rd.,79
+-79.399945,43.728266,active,15,Ranleigh Ave. East of Yonge St.,80
+-79.372554,43.751155,active,15,York Mills Rd. West of Banbury Rd.,81
+-79.348446,43.7042718,active,15,Thorncliffe Park Dr. Near 11 Thorncliffe Park Dr.,82
+-79.389955,43.71882,active,15,Blythwood Rd. West of Strathgowan Cres.,83
+-79.3137,43.729537,active,16,Elvaston Dr. Near Halkin Cres.,84
+-79.343821,43.738957,active,16,Don Mills Rd. North of Lawrence Ave. E.,85
+-79.301549,43.72169,active,16,Victoria Park Ave. North of Southmead Rd.,86
+-79.33873473,43.7628844,active,16,Fenelon Dr. Near Karen Rd.,87
+-79.327135,43.761901,active,16,Lynedock Cres. East of Fenside Dr.,88
+-79.324732,43.760112,active,16,Brookbanks Dr. West of Parkwoods Village Dr.,89
+-79.35048,43.7744034,active,17,Sheppard Ave E. West of Don Mills Rd.,90
+-79.332838,43.788478,active,17,Van Horne Ave. East of Bickerton Cres.,91
+-79.355686,43.806179,active,17,Don Mills Rd. Near Memory Gardens Lane,92
+-79.34995273,43.800401,active,17,McNicoll Ave. Near Sexton Cres.,93
+-79.33523,43.778301,active,17,Old Sheppard Ave. West of Brian Dr.,94
+-79.353464,43.788777,active,17,Don Mills Rd. South of Seneca Hill Dr.,95
+-79.427782,43.770999,active,18,Senlac Rd. South of Horsham Ave.,96
+-79.3900567,43.7687755,active,18,Spring Garden Ave. West of Bayview Ave.,97
+-79.40054931,43.788094,active,18,Maxome Ave. South of Gustav Cres.,98
+-79.421576,43.78629,active,18,Drewry Ave. Near Fairchild Ave.,99
+-79.417155,43.779547,active,18,Finch Ave. W. East of Duplex Ave.,100
+-79.40975664,43.7672568,active,18,Doris Ave. Near Elmwood Ave.,101
+-79.42718459,43.7929723,active,18,Hilda Ave. Near Crossen Dr.,102
+-79.417966,43.77762,active,18,Beecroft Rd. Near Lorraine Dr.,103
+-79.308102,43.663866,active,19,Lake Shore Blvd E. East of Winners Circle,104
+-79.316698,43.704961,active,19,St. Clair Ave. E. West of Marilyn Cres.,105
+-79.317276,43.687331,active,19,Glebeholme Blvd. West of Woodmount Ave.,106
+-79.299257,43.681719,active,19,Main St. South of Swanwick Ave. ,107
+-79.248856,43.712998,active,20,Midland Ave. South of Aylesworth Ave.,108
+-79.27679059,43.7019598,active,20,Warden Ave. South of Cataraqui Cres.,109
+-79.25109868,43.7049614,active,20,East Haven Dr. Near Leatherwood Gardens,110
+-79.25138594,43.7301303,active,20,Danforth Rd. East of Winter Ave.,111
+-79.298289,43.717881,active,20,Edge Park Ave. East of Victoria Park Ave.,112
+-79.286143,43.76463,active,21,Ellesmere Rd. Near Gladeside Rd. ,113
+-79.25235178,43.7654879,active,21,Brimorton Rd. Near Camlac Place,114
+-79.30630268,43.7473928,active,21,Pharmacy Ave. Near Galsworthy Ave.,115
+-79.303458,43.7403688,active,21,Pharmacy Ave. Near Sherwood Ave.,116
+-79.25939164,43.7375813,active,21,Midland Ave. North of Gilder Dr.,117
+-79.281273,43.748379,active,21,Lawrence Ave E. Near Canlish Rd.,118
+-79.25588,43.755563,active,21,Brimley Rd. North of Lawrence Ave E.,119
+-79.301517,43.788339,active,22,Birchmount Rd. South of Huntingwood Dr.,120
+-79.28545764,43.8018115,active,22,Midland Ave. South of Finch Ave. E.,121
+-79.32102805,43.7836566,active,22,Pharmacy Ave. North of Huntingwood Dr.,122
+-79.28075205,43.7906555,active,22,Midland Ave. Near Montgomery Ave.,123
+-79.329267,43.8008,active,22,Pharmacy Ave. Near 3200 Pharmacy Ave.,124
+-79.28917,43.78466,active,22,Kennedy Rd. South of Cardwell Ave.,125
+-79.264725,43.803452,active,23,McCowan Rd. South of Sandhurst Circle.,126
+-79.24033308,43.7968054,active,23,Markham Rd. North of Verne Cres.,127
+-79.24770405,43.7898406,active,23,Havenview Rd. Near Kentish Cres.,128
+-79.232331,43.8093188,active,23,Crow Trail Near Horseley Hill Dr.,129
+-79.277162,43.798185,active,23,Huntingwood Dr. West of Mollard Rd.,130
+-79.229601,43.815802,active,23,Finch Ave E. West of Neilson Rd.,131
+-79.27814,43.811645,active,23,Brimwood Blvd. East of Brimley Rd.,132
+-79.243377,43.798256,active,23,Nugget Ave. East of Transfer Place,133
+-79.239924,43.769074,active,24,Bellamy Rd. N. Near Northleigh Dr.,134
+-79.213654,43.775388,active,24,Slan Ave. Near Spraywood Gate,135
+-79.19579402,43.7645646,active,24,Galloway Rd. South of Lawrence Ave. E.,136
+-79.212472,43.786307,active,24,Military Trail Near 341 Military Trail,137
+-79.22447059,43.7781088,active,24,Ellesmere Rd. West of Scarborough Golf Club Rd.,138
+-79.18980895,43.7770348,active,24,Morningside Ave. North of Beath St.,139
+-79.22453,43.756835,active,24,Markham Rd. South of Greencedar Circuit,140
+-79.213717,43.778204,active,24,Orton Park Rd. Near 350 Orton Park Rd.,141
+-79.164358,43.794467,active,25,Meadowvale Rd. South of Claresholme Dr.,142
+-79.20750936,43.8046118,active,25,John Tabor Trail Near Duffort Court,143
+-79.1813887,43.7624339,active,25,Coronation Dr. East of Budworth Dr.,144
+-79.219597,43.814072,active,25,Hupfield Trail Near Glanvil Cres.,145
+-79.209388,43.79778,active,25,Murison Blvd. Near United Square,146
+-79.13355,43.785117,active,25,East Ave. Near Maberley Crescent,147
+-79.585269,43.749615,planned,1,Kipling Ave. South of Annabelle Dr.,148
+-79.553839,43.698311,planned,1,Kingsview Blvd. West of York Rd.,149
+-79.54354407,43.6501149,planned,2,Burnhamthorpe Rd. West of Echo Valley Rd.,150
+-79.582207,43.657186,planned,2,Renforth Dr. North of Tabard Gate,151
+-79.494049,43.612777,planned,3,Mimico Ave. West of Station Rd.,152
+-79.536254,43.59398,planned,3,Lake Shore Blvd. W. West of Thirty Fifth St.,153
+-79.437737,43.643574,planned,4,Lansdowne Ave. North of Seaforth Ave.,154
+-79.473663,43.662008,planned,4,Annette St. Near Laws St.,155
+-79.516997,43.711572,planned,5,Gary Dr. Near Deerhurst Ave.,156
+-79.489281,43.670263,planned,5,Pritchard Ave. Near Batavia Ave.,157
+-79.492212,43.750957,planned,6,Stilecroft Dr. West of Sharpecroft Blvd.,158
+-79.455108,43.75192,planned,6,Sheppard Ave. W. East of Wilson Heights Blvd.,159
+-79.557962,43.74591,planned,7,Ardwick Blvd. North of Peterson Dr.,160
+-79.53601,43.72873,planned,7,Weston Rd. South of Burgundy Court,161
+-79.434611,43.712913,planned,8,Glengrove Ave. W. West of Dalemount Ave.,162
+-79.451346,43.699342,planned,8,Dufferin St. North of Hopewell Ave.,163
+-79.434707,43.652201,planned,9,College St. Near Sheridan Ave.,164
+-79.424544,43.655943,planned,9,Concord Ave. North of College St.,165
+-79.397647,43.636081,planned,10,Queens Quay W. East of Bathurst St.,166
+-79.418169,43.646024,planned,10,Givins St. South of Argyle St.,167
+-79.367118,43.674571,planned,11,Bloor St. E. East of Castle Frank Rd.,168
+-79.415007,43.661569,planned,11,Manning Ave. South of Lennox St.,169
+-79.417565,43.680963,planned,12,Bathurst St. Near Helena Ave.,170
+-79.386676,43.699709,planned,12,Mount Pleasant Rd. Near Balliol St.,171
+-79.374069,43.665775,planned,13,Sherbourne St. South of Wellesley St. E.,172
+-79.366798,43.661111,planned,13,Parliament St. North of Oak St.,173
+-79.348561,43.666243,planned,14,Gerrard St. E. Near De Grassi St.,174
+-79.340358,43.690476,planned,14,Lesmount Ave. South of Cosburn Ave.,175
+-79.402326,43.726227,planned,15,Yonge St. Near Wanless Ave.,176
+-79.366899,43.729434,planned,15,Park Lane Circle Near 60 Park Lane Circle,177
+-79.345589,43.732143,active,16,The Donway W. Near Southill Dr.,178
+-79.344168,43.739149,planned,16,Don Mills Rd. North of Lawrence Ave. E.,179
+-79.395024,43.797903,planned,17,Bayview Ave. South of Newton Dr.,180
+-79.334661,43.787085,planned,17,Brian Dr. South of Van Horne Ave.,181
+-79.424071,43.758642,planned,18,Sheppard Ave. W. Near Senlac Rd.,182
+-79.41155,43.774292,planned,18,Church Ave. East of Doris Ave.,183
+-79.28355,43.679805,active,19,Victoria Park Ave. South of Kingston Rd.,184
+-79.293109,43.679936,planned,19,Kingston Rd. Near Malvern Ave.,185
+-79.225003,43.733153,planned,20,Bellamy Rd. S. North of Kingston Rd.,186
+-79.267479,43.730711,planned,20,Kennedy Rd. North of Kenmark Blvd.,187
+-79.242368,43.716497,planned,20,Kingston Rd. Near 2685 Kingston Rd.,188
+-79.255417,43.727967,planned,21,Midland Ave. North of Wolfe Ave.,189
+-79.288633,43.757115,planned,21,Birchmount Rd. South of Ellendale Dr.,190
+-79.319553,43.803327,planned,22,Warden Ave. South of Glen Springs Dr.,191
+-79.301253,43.795604,planned,22,Glendower Circuit Near Nearwood Gate,192
+-79.266738,43.784612,planned,23,Brimley Rd. North of Pitfield Rd.,193
+-79.220322,43.801201,planned,23,Berner Trail Near Hatchet Place,194
+-79.1929833,43.7668656,planned,24,Lawrence Ave. E. East of Andover Cres.,195
+-79.196781,43.748028,planned,24,Guildwood Pkwy. West of Chancery Lane,196
+-79.173213,43.801896,planned,25,Dean Park Rd. East of Sudbury Hill Dr.,197
+-79.150238,43.799258,planned,25,Durnford Rd. North of Rylander Blvd.,198
