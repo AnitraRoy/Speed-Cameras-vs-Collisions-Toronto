@@ -15,6 +15,8 @@ This project investigates whether Toronto's speed cameras are effectively locate
 - **Toronto Open Data Portal**
   - [Police Annual Statistical Report - Traffic Collisions](https://open.toronto.ca/dataset/police-annual-statistical-report-traffic-collisions/)
   - [Automated Speed Enforcement Locations](https://open.toronto.ca/dataset/automated-speed-enforcement-locations/)
+  
+- **Kaggle**
   - [Toronto Daily Weather Data (1937–2025)](https://www.kaggle.com/datasets/aliranjipour/toronto-weather-stats-nov-1937-jul-2025)
 
 ## Methods
